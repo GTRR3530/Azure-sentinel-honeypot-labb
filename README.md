@@ -54,3 +54,6 @@ Generate incidents automatically
 Add MITRE ATT&CK mapping
 Add Logic Apps automation
 Monitor multiple virtual machines
+Disclaimer
+
+```text
