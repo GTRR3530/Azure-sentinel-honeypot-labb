@@ -37,3 +37,20 @@ SecurityEvent
 | where isnotempty(IpAddress)
 | where IpAddress != "-"
 | project TimeGenerated, Computer, TargetAccount, IpAddress
+
+Skills Learned
+Azure VM deployment
+Microsoft Sentinel setup
+Log Analytics Workspace usage
+Windows Security Event analysis
+KQL basics
+Failed RDP login monitoring
+SOC-style investigation
+Security dashboard creation
+
+Future Improvements
+Create Sentinel alert rules
+Generate incidents automatically
+Add MITRE ATT&CK mapping
+Add Logic Apps automation
+Monitor multiple virtual machines
